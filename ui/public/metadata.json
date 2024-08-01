@@ -1,19 +1,19 @@
 {
   "name": "flatnotes",
   "description": {
-    "en": "My flatnotes module"
+    "en": "A self-hosted, database-less note-taking web app that utilizes a flat folder of markdown files for storage."
   },
   "categories": [],
   "authors": [
     {
-      "name": "Name Surname",
-      "email": "author@yourmail.org"
+      "name": "Kemboi Elvis",
+      "email": "kemboielvis#genius.ke"
     }
   ],
   "docs": {
-    "documentation_url": "https://docs.flatnotes.com/",
-    "bug_url": "https://github.com/NethServer/dev",
-    "code_url": "https://github.com/author/ns8-flatnotes"
+    "documentation_url": "https://github.com/dullage/flatnotes",
+    "bug_url": "https://github.com/geniusdynamics/dev",
+    "code_url": "https://github.com/geniusdynamics/ns8-flatnotes"
   },
-  "source": "ghcr.io/nethserver/flatnotes"
+  "source": "ghcr.io/geniusdynamics/flatnotes"
 }
