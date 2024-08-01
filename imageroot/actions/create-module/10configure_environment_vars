@@ -16,7 +16,7 @@ import secrets
 data = json.load(sys.stdin)
 
 #This is specific to you module, so you need to change it accordingly.
-FLATNOTES_SECRET_KEY = secrets.token_safeurl(32)
+FLATNOTES_SECRET_KEY = secrets.token_urlsafe(32)
 flat_notes = {
     "FLATNOTES_SECRET_KEY": FLATNOTES_SECRET_KEY
 }
