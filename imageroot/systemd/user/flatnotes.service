@@ -10,8 +10,8 @@
 
 [Unit]
 Description=Podman flatnotes.service
-Requires=mariadb-app.service flatnotes-app.service
-Before=mariadb-app.service flatnotes-app.service
+Requires=flatnotes-app.service
+Before=flatnotes-app.service
 
 [Service]
 Environment=PODMAN_SYSTEMD_UNIT=%n
