@@ -1,18 +1,21 @@
 {
   "name": "flatnotes",
   "description": {
-    "en": "A self-hosted, database-less note-taking web app that utilizes a flat folder of markdown files for storage."
+    "en": "Self-hosted note-taking app that stores notes as plain Markdown files in a folder, with search and tags.",
+    "it": "App self-hosted per appunti che salva le note come file Markdown in una cartella, con ricerca e tag."
   },
-  "categories": [],
+  "categories": [
+    "documentation"
+  ],
   "authors": [
     {
-      "name": "Kemboi Elvis",
-      "email": "kemboielvis#genius.ke"
+      "name": "Genius Dynamics",
+      "email": "support@genius.ke"
     }
   ],
   "docs": {
     "documentation_url": "https://github.com/dullage/flatnotes",
-    "bug_url": "https://github.com/geniusdynamics/dev",
+    "bug_url": "https://github.com/geniusdynamics/ns8-flatnotes/issues",
     "code_url": "https://github.com/geniusdynamics/ns8-flatnotes"
   },
   "source": "ghcr.io/geniusdynamics/flatnotes"
