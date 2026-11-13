@@ -2,7 +2,7 @@
   "name": "flatnotes",
   "description": {
     "en": "Self-hosted note-taking app that stores notes as plain Markdown files in a folder, with search and tags.",
-    "it": "App self-hosted per appunti che salva le note come file Markdown in una cartella, con ricerca e tag."
+    "it": "Flatnotes è un'applicazione di note basata su file Markdown, senza database."
   },
   "categories": [
     "documentation"
